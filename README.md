@@ -1,1 +1,1 @@
-# ThePigGame - The testscript is the main script used.
+# ThePigGame - The testscript.js is the main script used.
